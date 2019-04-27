@@ -51,3 +51,9 @@ O usps, Wine recognition... :
 ``` regresionLineal_ScikitLearn.py```
 
 ![Alt text](img/RegresionLineal.png?raw=true "Regresión lineal aleatoria")
+
+## k-Nearest Neighbors
+
+``` k-Nearest_Neighbors.py ```
+
+![Alt text](img/k-Nearest_Neighbors.png?raw=true "k Vecinos cercanos")
