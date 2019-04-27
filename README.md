@@ -67,3 +67,10 @@ O usps, Wine recognition... :
 ## Máquinas de Soporte vectorial
 
 ```maquinasDeSoporteVectorial.py```
+
+## Análisis de Componentes Principales
+
+```analisisComponentesPrincipales.py```
+```ACP_scikit-Learn.py```
+
+![Alt text](img/ACP.png?raw=true "ACP")
