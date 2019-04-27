@@ -41,3 +41,13 @@ O usps, Wine recognition... :
   - Algoritmos paramétricos
 
   - Algoritmos no paramétricos
+
+
+# Algoritmos de aprendizaje Automático
+
+## Regresión lineal
+
+``` regresionLineal.py ```
+``` regresionLineal_ScikitLearn.py```
+
+![Alt text](img/RegresionLineal.png?raw=true "Regresión lineal aleatoria")
