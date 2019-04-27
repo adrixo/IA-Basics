@@ -2,6 +2,8 @@
 IA Basics
 
 
+
+
 # Dónde encontrar datasets
 
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
@@ -14,6 +16,8 @@ Por ejemplo el dataset Iris incluido en el paper "The use of multiple measuremen
 
 O usps, Wine recognition... :
 - ```https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html```
+
+
 
 
 # Clasificación de los métodos de Aprendizaje Automático:
@@ -43,6 +47,8 @@ O usps, Wine recognition... :
   - Algoritmos no paramétricos
 
 
+
+
 # Algoritmos de aprendizaje Automático
 
 ## Regresión lineal
@@ -57,3 +63,7 @@ O usps, Wine recognition... :
 ``` k-Nearest_Neighbors.py ```
 
 ![Alt text](img/k-Nearest_Neighbors.png?raw=true "k Vecinos cercanos")
+
+## Máquinas de Soporte vectorial
+
+```maquinasDeSoporteVectorial.py```
