@@ -14,7 +14,7 @@ IA Basics
 Por ejemplo el dataset Iris incluido en el paper "The use of multiple measurements in taxonomic problems" de Ronald Fisher se encuentra en  UCI Machine Learning Repository:
 - ```http://archive.ics.uci.edu/ml/datasets/Iris```
 
-O usps, Wine recognition... :
+Ó usps, Wine recognition... :
 - ```https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/multiclass.html```
 
 
